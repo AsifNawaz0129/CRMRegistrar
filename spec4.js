@@ -1,7 +1,7 @@
 describe('CRM authorizer', function() {
 	it('CRM Autorizer', function() {
 	  	//Browser
-		browser.get('http://mfsys-cloud:4200/#/login');
+		browser.get('');
 	    	//Maximize Windows
 	    browser.driver.manage().window().maximize();
 	    	//Login Credentials
