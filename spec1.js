@@ -51,7 +51,7 @@ describe('CRM register bot', function() {
 	browser.sleep(4000);
 
 	  	//Browser
-    browser.get('http://mfsys-cloud:4200/#/login');
+    browser.get('');
     	//Maximize Windows
     browser.driver.manage().window().maximize();
     	//Login Credentials
